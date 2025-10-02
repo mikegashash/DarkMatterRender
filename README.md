@@ -6,7 +6,6 @@ Companion to: **“When the Universe Deletes Data, Gravity Remembers” (Gashash
 ---
 
 ## 🚀 Overview
-
 This repository demonstrates how the **thermodynamic cost of information erasure** can lead to the emergence of a **gravitational halo**, mimicking dark matter without invoking exotic particles. The simulation links **information theory, energy, and gravity** into a single causal-response framework.
 
 ---
@@ -25,7 +24,6 @@ E \ge k_B\,T\,\ln 2
 
 ### 🔗 The Causal Link: From Erasure to Emergent Gravity
 During galaxy formation, **information is erased** through:
-
 - Coarse-graining (microscopic → macroscopic states)
 - Decoherence (quantum → classical reality)
 - Thermalization (ordered → chaotic states)
@@ -35,9 +33,6 @@ A fraction **ζ** of the erasure energy may be stored in long-lived, “dark” 
 ---
 
 ## 🌀 Conceptual Flow
-
-> ✅ **Note:** GitHub’s Mermaid parser can be picky about punctuation.  
-> To avoid parsing errors, labels below are quoted.
 
 ```mermaid
 graph TD
