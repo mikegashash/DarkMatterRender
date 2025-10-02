@@ -15,7 +15,7 @@ The simulation links **information theory, energy, and gravity** into a single c
 
 ---
 
-## 🧩 The Core Hypothesis  
+## The Core Hypothesis  
 
 ### 👻 The Ghost in the Galaxy  
 Galaxies rotate much faster than their visible matter allows. Traditional explanations invoke **dark matter particles**. None have been detected.  
