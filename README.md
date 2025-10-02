@@ -3,10 +3,13 @@
 **A Python-based numerical toy model for exploring how information erasure during galaxy formation may generate dark-matter-like gravitational effects.**  
 Companion to: **“When the Universe Deletes Data, Gravity Remembers” (Gashash, 2025)**
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-repo/info-gravity-viz/blob/main/visualize_info_gravity.ipynb)
+
 ---
 
 ## 🚀 Overview
-This repository demonstrates how the **thermodynamic cost of information erasure** can lead to the emergence of a **gravitational halo**, mimicking dark matter without invoking exotic particles. The simulation links **information theory, energy, and gravity** into a single causal-response framework.
+This repository demonstrates how the **thermodynamic cost of information erasure** can lead to the emergence of a **gravitational halo**, mimicking dark matter without invoking exotic particles.  
+The simulation links **information theory, energy, and gravity** into a single causal-response framework.
 
 ---
 
@@ -24,9 +27,9 @@ E \ge k_B\,T\,\ln 2
 
 ### 🔗 The Causal Link: From Erasure to Emergent Gravity
 During galaxy formation, **information is erased** through:
-- Coarse-graining (microscopic → macroscopic states)
-- Decoherence (quantum → classical reality)
-- Thermalization (ordered → chaotic states)
+- Coarse-graining (microscopic → macroscopic states)  
+- Decoherence (quantum → classical reality)  
+- Thermalization (ordered → chaotic states)  
 
 A fraction **ζ** of the erasure energy may be stored in long-lived, “dark” modes that gravitate but do not shine.
 
